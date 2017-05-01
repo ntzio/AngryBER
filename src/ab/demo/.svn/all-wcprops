@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/5/trunk/src/ab/demo
+END
+Features.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/src/ab/demo/Features.java
+END
+Agent.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5/trunk/src/ab/demo/Agent.java
+END
+abClientExample.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/src/ab/demo/abClientExample.cpp
+END
+Tree.java
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/src/ab/demo/Tree.java
+END
+Settings.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5/trunk/src/ab/demo/Settings.java
+END
+Feasibility.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/src/ab/demo/Feasibility.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/src/ab/demo/Node.java
+END
+MainEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/ab/demo/MainEntry.java
+END
+ShootingAgent.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/src/ab/demo/ShootingAgent.java
+END
+Regressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/ab/demo/Regressor.java
+END
+TargetNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/src/ab/demo/TargetNode.java
+END
+ClientAgent.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/src/ab/demo/ClientAgent.java
+END

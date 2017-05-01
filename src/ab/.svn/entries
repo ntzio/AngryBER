@@ -1,0 +1,43 @@
+10
+
+dir
+6
+http://angry-ber.googlecode.com/svn/trunk/src/ab
+http://angry-ber.googlecode.com/svn
+
+
+
+2015-03-07T10:35:51.053844Z
+5
+ntziorzi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8fc833b8-11ae-655a-d692-7c6b5c1351cb
+
+demo
+dir
+
+server
+dir
+
+vision
+dir
+
+planner
+dir
+
+utils
+dir
+
